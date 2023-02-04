@@ -1,11 +1,11 @@
 ---
-sidebar_position: 1
-description: Create a group.
+sidebar_position: 2
+description: Create a new group and invite members.
 ---
 
 # Create a group
 
-After logging in with your email, you can now create a new group and invite your friends
+After logging in with your email, you can now create a new group and invite the members
 
 ### Step 1: Open the Pesabooks app
 
@@ -31,7 +31,7 @@ Using stablecoins makes it easier to track user deposits because of the reduced 
 
 ![](/img/invite-friends.png)
 
-Next invite your friends.
+Next invite the members of the group.
 
 You can click on the `Add member` button to add more members.
-Enter the name and email of your friend that you want to invite to your group. They will receive an email inviting them to join
+Enter the name and email of the member that you want to invite to your group. They will receive an email inviting them to join
